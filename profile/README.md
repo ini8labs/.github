@@ -1,17 +1,12 @@
 <div align="center">
 
-<img alt="INI8 Labs" src="banner-dark.png" width="480">
-
-<br/><br/>
-
-**We help businesses design, build, and scale intelligent systems — from machine learning pipelines to production-grade cloud infrastructure.**
+<img alt="INI8 Labs" src="banner.jpeg" width="800">
 
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-ini8labs.tech-0A66C2?style=flat-square)](https://ini8labs.tech)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-ini8labs-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ini8labs)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Contact-anand@ini8labs.tech-555?style=flat-square)](mailto:anand@ini8labs.tech)
-
 
 </div>
 
