@@ -1,11 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ini8labs.tech/assets/white-logo-1-CJSWl5xf.png" width="320">
-  <img alt="INI8 Labs" src="https://avatars.githubusercontent.com/u/108628393?v=4" width="140">
-</picture>
-
-# INI8 Labs
+<img alt="INI8 Labs" src="banner-dark.png" width="480">
 
 ### AI & Cloud Engineering Services
 
